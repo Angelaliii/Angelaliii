@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="">
 
-<!--
-**Angelaliii/Angelaliii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Angela Li. 👋
 
-Here are some ideas to get you started:
+### 💫 About Me
+🌱 I’m currently learning **AI & Cloud Technology**.  
+🎤 I enjoy watching **Stand-up comedy** and **Manzai** in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=react,aws,figma,html)](https://skillicons.dev)
+
+</div>
