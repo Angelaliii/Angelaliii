@@ -1,6 +1,4 @@
-<div align="">
-
-# Hi there, I'm Angela Li. 👋
+# Hi, I'm Angela Li. 👋
 
 ### 💫 About Me
 🌱 I’m currently learning **AI & Cloud Technology**.  
@@ -10,4 +8,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,aws,figma,html)](https://skillicons.dev)
 
-</div>
